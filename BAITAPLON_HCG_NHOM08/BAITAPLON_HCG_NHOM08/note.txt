@@ -1,0 +1,63 @@
+Tập luật: 
+r1:tc4^tc11^tc26->tc1
+r2:tc8^tc5^tc29^tc35->tc2
+r3:tc7^tc11^tc28^tc29->tc3
+r4:tc11^tc29->tc5
+r5:tc5^tc6^tc51->tc8
+r6:tc13^tc14^tc40->tc9
+r7:tc5^tc8^tc29->tc11
+r8:tc12^t14->tc13
+r9:tc9^tc13->tc14
+r10:tc26^tc34->tc16
+r11:tc16^tc20^tc26->tc17
+r12:tc24 ^tc17^tc38->tc20
+r13:tc26^tc8^tc20^tc11->tc21
+r14:tc12^tc13^tc14^tc49->tc25
+r15:tc50^tc17->tc26
+r16:tc8^tc23->tc28
+r17:tc3^tc7^tc28^tc40->tc29
+r18:tc2^tc29^tc37->tc31
+r19:tc16^tc23^tc8^tc28->tc32
+r20:tc46^tc34->tc33
+r21:tc28^tc8^tc26->tc34
+r22:tc51^tc8->tc35
+r23:tc14^tc31->tc36
+r24:tc2^tc8^tc20^tc29^tc35->tc37
+r25:tc45^tc371->tc39
+r26:tc16^1c18->tc40
+r27:tc28^tc25->tc41
+r28:tc26^tc24^tc38->tc44
+r29:tc26^tc22^tc37^tc2->tc45
+r30:tc16 ^tc26^tc32->tc46
+r31:tc16 ^tc22^tc31->tc47
+r32:tc23^tc27->tc48
+r33:tc13^tc15^tc16^tc18->tc49
+r34:tc26^tc22^tc37^tc16->tc50
+r35:tc8^tc35^tc11->tc51
+r36:tc38^tc51^tc40->mb1
+r37:tc34^tc26^tc17->mb2
+r38:tc26^tc22^tc50^tc11->mb3
+r39:tc37^tc16^tc26^tc33->mb4
+r40:tc1^tc17^tc16^tc33->mb5
+r41:tc51^tc16^tc35->mb6
+r42:tc28^tc26^tc36^tc16->mb7
+r43:tc26^tc32^tc20->mb8
+r44:tc51^tc2^tc16->mb9
+r45:tc44^tc35^tc34->mb10
+r46:tc26^tc50^tc36->mb11
+r47:tc26^tc2^tc34^tc8->mb12
+r48:tc37^tc22^tc2^tc31->mb13
+r49:tc37^tc12^tc5->mb14
+r50:tc14^tc25^tc41^tc10->mb15
+r4:tc11^tc29->tc5
+
+Tập luật: 
+Tập giả thiết: GT={tc3}
+Bước 1: 
+Tập trung gian: GT=TG={tc3}
+Lọc các luật từ tập TG và R: SAT={}
+------------------------------------------------------------------------------
+-----Các sự kiện đã chọn-----
+Cảm giác thiếu năng lượng
+-----Kết quả-----
+===>Cảm giác thiếu năng lượng

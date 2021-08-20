@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quanlysukien>
+  <sukien mask="tc1">
+    <tensukien>Cơn hen tim</tensukien>
+  </sukien>
+  <sukien mask="tc2">
+    <tensukien>	Buồn nôn</tensukien>
+  </sukien>
+  <sukien mask="tc3">
+    <tensukien>Cảm giác thiếu năng lượng</tensukien>
+  </sukien>
+  <sukien mask="tc4">
+    <tensukien>Có khó thở về đêm</tensukien>
+  </sukien>
+  <sukien mask="tc5">
+    <tensukien>Chán ăn sụt cân</tensukien>
+  </sukien>
+  <sukien mask="tc6">
+    <tensukien>Chảy máu mũi</tensukien>
+  </sukien>
+  <sukien mask="tc7">
+    <tensukien>Choáng</tensukien>
+  </sukien>
+  <sukien mask="tc8">
+    <tensukien>Chóng mặt</tensukien>
+  </sukien>
+  <sukien mask="tc9">
+    <tensukien>Chuột rút</tensukien>
+  </sukien>
+  <sukien mask="tc10">
+    <tensukien>Da khô</tensukien>
+  </sukien>
+  <sukien mask="tc11">
+    <tensukien>Da xanh xao</tensukien>
+  </sukien>
+  <sukien mask="tc12">
+    <tensukien>Đau cơ khớp</tensukien>
+  </sukien>
+  <sukien mask="tc13">
+    <tensukien>Đau chân</tensukien>
+  </sukien>
+  <sukien mask="tc14">
+    <tensukien>Đau khi đi lại</tensukien>
+  </sukien>
+  <sukien mask="tc15">
+    <tensukien>Đau lưng</tensukien>
+  </sukien>
+  <sukien mask="tc16">
+    <tensukien>Đau ngực</tensukien>
+  </sukien>
+  <sukien mask="tc17">
+    <tensukien>Đau tim</tensukien>
+  </sukien>
+  <sukien mask="tc18">
+    <tensukien>Đau vai hoặc cánh tay</tensukien>
+  </sukien>
+  <sukien mask="tc19">
+    <tensukien>Đau vùng cổ hoặc hàm</tensukien>
+  </sukien>
+  <sukien mask="tc20">
+    <tensukien>Đổ mồ hôi lạnh</tensukien>
+  </sukien>
+  <sukien mask="tc21">
+    <tensukien>Hôn mê</tensukien>
+  </sukien>
+  <sukien mask="tc22">
+    <tensukien>Ho</tensukien>
+  </sukien>
+  <sukien mask="tc23">
+    <tensukien>Hoa mắt</tensukien>
+  </sukien>
+  <sukien mask="tc24">
+    <tensukien>Hồi hộp</tensukien>v
+  </sukien>
+  <sukien mask="tc25">
+    <tensukien>Khó cử động chân tay</tensukien>
+  </sukien>
+  <sukien mask="tc26">
+    <tensukien>Khó thở</tensukien>
+  </sukien>
+  <sukien mask="tc27">
+    <tensukien>Mắt mờ</tensukien>
+  </sukien>
+  <sukien mask="tc28">
+    <tensukien>Mất thăng bằng cơ thể</tensukien>
+  </sukien>
+  <sukien mask="tc29">
+    <tensukien>Mệt mỏi</tensukien>
+  </sukien>
+  <sukien mask="tc30">
+    <tensukien>Nói ngọng bất thường</tensukien>
+  </sukien>
+  <sukien mask="tc31">
+    <tensukien>Nôn</tensukien>v
+  </sukien>
+  <sukien mask="tc32">
+    <tensukien>Ngất xỉu</tensukien>vv
+  </sukien>
+  <sukien mask="tc33">
+    <tensukien>Nhịp tim bất thường</tensukien>
+  </sukien>
+  <sukien mask="tc34">
+    <tensukien>Nhịp tim nhanh</tensukien>
+  </sukien>
+  <sukien mask="tc35">
+    <tensukien>Nhức đầu</tensukien>
+  </sukien>
+  <sukien mask="tc36">
+    <tensukien>Phù chân</tensukien>
+  </sukien>
+  <sukien mask="tc37">
+    <tensukien>Sốt</tensukien>
+  </sukien>
+  <sukien mask="tc38">
+    <tensukien>Sự căng thẳng</tensukien>
+  </sukien>
+  <sukien mask="tc39">
+    <tensukien>Hạ thân nhiệt</tensukien>
+  </sukien>
+  <sukien mask="tc40">
+    <tensukien>Tập luyện gắng sức</tensukien>
+  </sukien>
+  <sukien mask="tc41">
+    <tensukien>Teo cơ</tensukien>
+  </sukien>
+  <sukien mask="tc42">
+    <tensukien>Tê cứng mặt</tensukien>
+  </sukien>
+  <sukien mask="tc43">
+    <tensukien>Tê liệt một bên cơ thể</tensukien>
+  </sukien>
+  <sukien mask="tc44">
+    <tensukien>Thở nông</tensukien>
+  </sukien>
+  <sukien mask="tc45">
+    <tensukien>Ớn lạnh</tensukien>
+  </sukien>
+  <sukien mask="tc46">
+    <tensukien>Tim đập chậm</tensukien>
+  </sukien>
+  <sukien mask="tc47">
+    <tensukien>Tức nặng ngực</tensukien>
+  </sukien>
+  <sukien mask="tc48">
+    <tensukien>Thị lực giảm</tensukien>
+  </sukien>
+  <sukien mask="tc49">
+    <tensukien>Vận động khó khăn</tensukien>
+  </sukien>
+  <sukien mask="tc50">
+    <tensukien>Viêm phổi</tensukien>
+  </sukien>
+  <sukien mask="tc51">
+    <tensukien>Thiếu máu</tensukien>
+  </sukien>
+  <sukien mask="mb1">
+    <tensukien>Cao huyết áp</tensukien>
+  </sukien>
+  <sukien mask="mb2">
+    <tensukien>Bệnh động mạch vành</tensukien>
+  </sukien>
+  <sukien mask="mb3">
+    <tensukien>Bệnh tim bẩm sinh</tensukien>
+  </sukien>
+  <sukien mask="mb4">
+    <tensukien>Bệnh tim thấp khớp</tensukien>
+  </sukien>
+  <sukien mask="mb5">
+    <tensukien>Bệnh van tim</tensukien>
+  </sukien>
+  <sukien mask="mb6">
+    <tensukien>Đột quỵ</tensukien>
+  </sukien>
+  <sukien mask="mb7">
+    <tensukien>Giãn buồng tim</tensukien>
+  </sukien>
+  <sukien mask="mb8">
+    <tensukien>Nhồi máu cơ tim</tensukien>
+  </sukien>
+  <sukien mask="mb9">
+    <tensukien>Rối loạn nhịp tim</tensukien>
+  </sukien>
+  <sukien mask="mb10">
+    <tensukien>Rụng nhĩ</tensukien>
+  </sukien>
+  <sukien mask="mb11">
+    <tensukien>Suy tim</tensukien>
+  </sukien>
+  <sukien mask="mb12">
+    <tensukien>Thiếu máu cơ tim</tensukien>
+  </sukien>
+  <sukien mask="mb13">
+    <tensukien>Viêm cơ tim</tensukien>
+  </sukien>
+  <sukien mask="mb14">
+    <tensukien>Viêm nội tâm mạc</tensukien>
+  </sukien>
+  <sukien mask="mb15">
+    <tensukien>Xơ vữa động mạch</tensukien>
+  </sukien>
+</quanlysukien>
