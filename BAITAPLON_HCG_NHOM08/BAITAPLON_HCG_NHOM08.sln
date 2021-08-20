@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAITAPLON_HCG_NHOM08", "BAITAPLON_HCG_NHOM08\BAITAPLON_HCG_NHOM08.csproj", "{742CE4E3-CB71-4A22-A0D0-345452D7E3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742CE4E3-CB71-4A22-A0D0-345452D7E3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742CE4E3-CB71-4A22-A0D0-345452D7E3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742CE4E3-CB71-4A22-A0D0-345452D7E3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742CE4E3-CB71-4A22-A0D0-345452D7E3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61FD753E-E28F-4753-A21A-022D6121C4C1}
+	EndGlobalSection
+EndGlobal

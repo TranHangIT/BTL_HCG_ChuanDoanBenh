@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quanlyluat>
+  <luat maluat="r1">
+    <vetrai>tc4^tc11^tc26</vetrai>
+    <vephai>tc1</vephai>
+  </luat>
+  <luat maluat="r2">
+    <vetrai>tc8^tc5^tc29^tc35</vetrai>
+    <vephai>tc2</vephai>
+  </luat>
+  <luat maluat="r3">
+    <vetrai>tc7^tc11^tc28^tc29</vetrai>
+    <vephai>tc3</vephai>
+  </luat>
+  <luat maluat="r4">
+    <vetrai>tc11^tc29</vetrai>
+    <vephai>tc5</vephai>
+  </luat>
+  <luat maluat="r5">
+    <vetrai>tc5^tc6^tc51</vetrai>
+    <vephai>tc8</vephai>
+  </luat>
+  <luat maluat="r6">
+    <vetrai>tc13^tc14^tc40</vetrai>
+    <vephai>tc9</vephai>
+  </luat>
+  <luat maluat="r7">
+    <vetrai>tc5^tc8^tc29</vetrai>
+    <vephai>tc11</vephai>
+  </luat>
+  <luat maluat="r8">
+    <vetrai>tc12^t14</vetrai>
+    <vephai>tc13</vephai>
+  </luat>
+  <luat maluat="r9">
+    <vetrai>tc9^tc13</vetrai>
+    <vephai>tc14</vephai>
+  </luat>
+  <luat maluat="r10">
+    <vetrai>tc26^tc34</vetrai>
+    <vephai>tc16</vephai>
+  </luat>
+  <luat maluat="r11">
+    <vetrai>tc16^tc20^tc26</vetrai>
+    <vephai>tc17</vephai>
+  </luat>
+  <luat maluat="r12">
+    <vetrai>tc24 ^tc17^tc38</vetrai>
+    <vephai>tc20</vephai>
+  </luat>
+  <luat maluat="r13">
+    <vetrai>tc26^tc8^tc20^tc11</vetrai>
+    <vephai>tc21</vephai>
+  </luat>
+  <luat maluat="r14">
+    <vetrai>tc12^tc13^tc14^tc49</vetrai>
+    <vephai>tc25</vephai>
+  </luat>
+  <luat maluat="r15">
+    <vetrai>tc50^tc17</vetrai>
+    <vephai>tc26</vephai>
+  </luat>
+  <luat maluat="r16">
+    <vetrai>tc8^tc23</vetrai>
+    <vephai>tc28</vephai>
+  </luat>
+  <luat maluat="r17">
+    <vetrai>tc3^tc7^tc28^tc40</vetrai>
+    <vephai>tc29</vephai>
+  </luat>
+  <luat maluat="r18">
+    <vetrai>tc2^tc29^tc37</vetrai>
+    <vephai>tc31</vephai>
+  </luat>
+  <luat maluat="r19">
+    <vetrai>tc16^tc23^tc8^tc28</vetrai>
+    <vephai>tc32</vephai>
+  </luat>
+  <luat maluat="r20">
+    <vetrai>tc46^tc34</vetrai>
+    <vephai>tc33</vephai>
+  </luat>
+  <luat maluat="r21">
+    <vetrai>tc28^tc8^tc26</vetrai>
+    <vephai>tc34</vephai>
+  </luat>
+  <luat maluat="r22">
+    <vetrai>tc51^tc8</vetrai>
+    <vephai>tc35</vephai>
+  </luat>
+  <luat maluat="r23">
+    <vetrai>tc14^tc31</vetrai>
+    <vephai>tc36</vephai>
+  </luat>
+  <luat maluat="r24">
+    <vetrai>tc2^tc8^tc20^tc29^tc35</vetrai>
+    <vephai>tc37</vephai>
+  </luat>
+  <luat maluat="r25">
+    <vetrai>tc45^tc371</vetrai>
+    <vephai>tc39</vephai>
+  </luat>
+  <luat maluat="r26">
+    <vetrai>tc16^1c18</vetrai>
+    <vephai>tc40</vephai>
+  </luat>
+  <luat maluat="r27">
+    <vetrai>tc28^tc25</vetrai>
+    <vephai>tc41</vephai>
+  </luat>
+  <luat maluat="r28">
+    <vetrai>tc26^tc24^tc38</vetrai>
+    <vephai>tc44</vephai>
+  </luat>
+  <luat maluat="r29">
+    <vetrai>tc26^tc22^tc37^tc2</vetrai>
+    <vephai>tc45</vephai>
+  </luat>
+  <luat maluat="r30">
+    <vetrai>tc16 ^tc26^tc32</vetrai>
+    <vephai>tc46</vephai>
+  </luat>
+  <luat maluat="r31">
+    <vetrai>tc16 ^tc22^tc31</vetrai>
+    <vephai>tc47</vephai>
+  </luat>
+  <luat maluat="r32">
+    <vetrai>tc23^tc27</vetrai>
+    <vephai>tc48</vephai>
+  </luat>
+  <luat maluat="r33">
+    <vetrai>tc13^tc15^tc16^tc18</vetrai>
+    <vephai>tc49</vephai>
+  </luat>
+  <luat maluat="r34">
+    <vetrai>tc26^tc22^tc37^tc16</vetrai>
+    <vephai>tc50</vephai>
+  </luat>
+  <luat maluat="r35">
+    <vetrai>tc8^tc35^tc11</vetrai>
+    <vephai>tc51</vephai>
+  </luat>
+  <luat maluat="r36">
+    <vetrai>tc38^tc51^tc40</vetrai>
+    <vephai>mb1</vephai>
+  </luat>
+  <luat maluat="r37">
+    <vetrai>tc34^tc26^tc17</vetrai>
+    <vephai>mb2</vephai>
+  </luat>
+  <luat maluat="r38">
+    <vetrai>tc26^tc22^tc50^tc11</vetrai>
+    <vephai>mb3</vephai>
+  </luat>
+  <luat maluat="r39">
+    <vetrai>tc37^tc16^tc26^tc33</vetrai>
+    <vephai>mb4</vephai>
+  </luat>
+  <luat maluat="r40">
+    <vetrai>tc1^tc17^tc16^tc33</vetrai>
+    <vephai>mb5</vephai>
+  </luat>
+  <luat maluat="r41">
+    <vetrai>tc51^tc16^tc35</vetrai>
+    <vephai>mb6</vephai>
+  </luat>
+  <luat maluat="r42">
+    <vetrai>tc28^tc26^tc36^tc16</vetrai>
+    <vephai>mb7</vephai>
+  </luat>
+  <luat maluat="r43">
+    <vetrai>tc26^tc32^tc20</vetrai>
+    <vephai>mb8</vephai>
+  </luat>
+  <luat maluat="r44">
+    <vetrai>tc51^tc2^tc16</vetrai>
+    <vephai>mb9</vephai>
+  </luat>
+  <luat maluat="r45">
+    <vetrai>tc44^tc35^tc34</vetrai>
+    <vephai>mb10</vephai>
+  </luat>
+  <luat maluat="r46">
+    <vetrai>tc26^tc50^tc36</vetrai>
+    <vephai>mb11</vephai>
+  </luat>
+  <luat maluat="r47">
+    <vetrai>tc26^tc2^tc34^tc8</vetrai>
+    <vephai>mb12</vephai>
+  </luat>
+  <luat maluat="r48">
+    <vetrai>tc37^tc22^tc2^tc31</vetrai>
+    <vephai>mb13</vephai>
+  </luat>
+  <luat maluat="r49">
+    <vetrai>tc37^tc12^tc5</vetrai>
+    <vephai>mb14</vephai>
+  </luat>
+  <luat maluat="r50">
+    <vetrai>tc14^tc25^tc41^tc10</vetrai>
+    <vephai>mb15</vephai>
+  </luat>
+  <luat maluat="r4">
+    <vephai>tc5</vephai>
+    <vetrai>tc11^tc29</vetrai>
+  </luat>
+</quanlyluat>
